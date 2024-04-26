@@ -83,8 +83,8 @@ input_var['CarName'] = car.transform(input_var[['CarName']])
 input_var['carbody'] = body.transform(input_var[['carbody']])
 
 
-st.header('Transformed Input Variable')
-st.dataframe(input_var, use_container_width = True)
+# st.header('Transformed Input Variable')
+# st.dataframe(input_var, use_container_width = True)
 
 
 
