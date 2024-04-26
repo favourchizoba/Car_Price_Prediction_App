@@ -2,7 +2,7 @@
 
 This project focuses on building a machine learning model to predict the price of cars based on various features.
 
-Table of Contents
+<h4>Table of Contents<h4>
 Introduction
 Dataset
 Features
